@@ -167,12 +167,11 @@ Before you begin, ensure you have the following installed:
 
 Navigate to [http://localhost:3000](http://localhost:3000) in your browser to use the application. Use the search bar to find movies and get recommendations based on the selected movie.
 
-## License
 ## Comments
 Forked the repository after completion of the project.
+Some changes made are yet to be updated.
 
-
-
+## License
 This project is licensed under the MIT License.
 
 ---
